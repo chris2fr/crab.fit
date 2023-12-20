@@ -1,51 +1,10 @@
 :root {
   color-scheme: light dark;
 
- 
-
-
-  --slate-blue: #6c5ce7ff;
-  --mountain-meadow: #00b894ff;
-  --rose-bonbon: #e84393ff;
-  --maximum-yellow-red: #fdcb6eff;
-  --midnight-blue: #1b1464ff;
-  --french-sky-blue: #74b9ff;
-  --skobeloff: #006266; 
-  --white: white;
-  --color-whiteish: #eee;
-  --color-blackish: #222;
-
-  --color-primary: var(--slate-blue);
-  --color-primary-light: var(--french-sky-blue);
-  --color-primary-dark: var(--midnight-blue);
-  --color-secondary-light: var(--maximum-yellow-red);
-  --color-secondary-dark:  var(--maximum-yellow-red);
-  --color-secondary: var(--maximum-yellow-red);
-  --color-tertiary-light: var(--mountain-meadow);
-  --color-tertiary: var(--mountain-meadow);
-  --color-tertiary-dark: var(--skobeloff);
-  --color-background: var(--color-whiteish);
-  --color-background-inverted: var(--color-primary-dark);
-  --color-text: var(--midnight-blue);
-  --color-text-inverted: var(--color-whiteish);
-  --color-link: var(--midnight-blue);
-  --color-link-inverted: var(--rose-bonbon);
-
-  /* --primary: #F79E00; */
-  --primary: var(--slate-blue);
-
+  --primary: #F79E00;
 
   /* LIGHT */
-  --background-light: var(--color-whiteish);
-  --text-light: var(--color-blackish);
-  --shadow-light: var(--color-primary-dark);
-  --highlight-light: var(--color-secondary-light);
-  --secondary-light: var(--shadow-light);
-  --tertiary-light: var(--highlight-light);
-  --surface-light: var(--color-whiteish);
-  --error-light: var(--rose-bonbon);
-  --loading-light: var(--color-whiteish);
-  /* --background-light: #FFFFFF;
+  --background-light: #FFFFFF;
   --text-light: #000000;
   --shadow-light: #F48600;
   --highlight-light: #F4BB60;
@@ -53,11 +12,11 @@
   --tertiary-light: var(--highlight-light);
   --surface-light: #FEF2DD;
   --error-light: #D32F2F;
-  --loading-light: #DDDDDD; */
+  --loading-light: #DDDDDD;
   --font-weight-light: 600;
 
   /* DARK */
-  /* --background-dark: #111111;
+  --background-dark: #111111;
   --text-dark: #DDDDDD;
   --shadow-dark: #CC7313;
   --highlight-dark: #F4BB60;
@@ -65,16 +24,7 @@
   --tertiary-dark: var(--shadow-dark);
   --surface-dark: #30240F;
   --error-dark: #E53935;
-  --loading-dark: #444444; */
-  --background-dark: var(--color-blackish);
-  --text-dark: var(--color-whiteish);
-  --shadow-dark: var(--color-primary-light);
-  --highdark-dark: var(--color-secondary-dark);
-  --secondary-dark: var(--shadow-dark);
-  --tertiary-dark: var(--highdark-dark);
-  --surface-dark: var(--color-blackish);
-  --error-dark: var(--rose-bonbon);
-  --loading-dark: var(--color-blackish);
+  --loading-dark: #444444;
   --font-weight-dark: 500;
 
   /* Define light defaults */

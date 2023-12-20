@@ -1,22 +1,22 @@
 body {
   font-family: fengardoneue;
-  color: var(--color-text);
-  background-color: var(--color-background);
+  /* color: var(--color-text);
+  background-color: var(--color-background); */
 }
-a {
+/* a {
   color: var(--color-link);
-}
+} */
 h1, h2, h3, h4, h5, h6 {
   font-family: lack;
   clear: both;
 }
 hr {
   border-style: none;
-  border-bottom: 1px solid var(--color-text);
+  /* border-bottom: 1px solid var(--color-text); */
 }
-a:hover {
+/* a:hover {
   color: var(--color-link-hover);
-}
+} */
 :root {
   /* --color-1: #74b9ff;
   --color-1: #e84393;
