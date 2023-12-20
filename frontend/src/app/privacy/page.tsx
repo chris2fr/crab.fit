@@ -76,7 +76,7 @@ const Page = async () => {
         <P>Last updated: 2023-06-10</P>
 
         <h2>Contact Us</h2>
-        <P>If you have any questions or suggestions about the Privacy Policy, do not hesitate to contact us at <a href="mailto:contact@crab.fit">contact@crab.fit</a>.</P>
+        <P>If you have any questions or suggestions about the Privacy Policy, do not hesitate to contact us at <a href="mailto:contact@lesgrandsvoisins.com">contact@lesgrandsvoisins.com</a>.</P>
       </div>
     </Content>
 

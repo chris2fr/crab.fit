@@ -16,7 +16,7 @@ import './fonts/fengardoneue/font.css'
 const karla = Karla({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://crab.fit'),
+  metadataBase: new URL('https://crabfit.desgv.com'),
   title: {
     absolute: 'Crab Fit',
     template: '%s - Crab Fit',
