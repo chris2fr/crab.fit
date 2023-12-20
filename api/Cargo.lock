@@ -616,7 +616,6 @@ dependencies = [
  "bcrypt",
  "chrono",
  "common",
- "datastore-adaptor",
  "dotenvy",
  "memory-adaptor",
  "punycode",
