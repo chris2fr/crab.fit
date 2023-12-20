@@ -9,6 +9,9 @@ import { fallbackLng } from '/src/i18n/options'
 import { useTranslation } from '/src/i18n/server'
 
 import './global.css'
+import './desgrandsvoisins.css'
+import './fonts/lack/stylesheet.css'
+import './fonts/fengardoneue/font.css'
 
 const karla = Karla({ subsets: ['latin'] })
 
